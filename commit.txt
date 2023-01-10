@@ -1,1 +1,5 @@
-Adds html, css, and javascript files and updates readme.
+Adds basic html and css flex boxes for the calculator
+
+Creates calculator div that contains a display div, a numbers div, and an operator div.
+Breaks down the numbers and operators divs into divs containing their respective elements.
+
