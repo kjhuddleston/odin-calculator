@@ -1,5 +1,5 @@
-Adds basic html and css flex boxes for the calculator
+Adds basic javascript functionality to identify elements in the dom.
 
-Creates calculator div that contains a display div, a numbers div, and an operator div.
-Breaks down the numbers and operators divs into divs containing their respective elements.
+Defines variables for each number element in the dom.
+Adds function to display users number sequence in the display based on clicks.
 
