@@ -1,5 +1,3 @@
-Adds basic javascript functionality to identify elements in the dom.
+Adds operator and equals functionality.
 
-Defines variables for each number element in the dom.
-Adds function to display users number sequence in the display based on clicks.
-
+Adds basic javascript functionality to calculate the result of operating on two numbers.
